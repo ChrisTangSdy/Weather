@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.96ea61c1.js",
+    "static/media/LONDON.jpeg": "/static/media/LONDON.af020cecc0649ad5d4b8.jpeg",
+    "static/media/SHANGHAI.jpeg": "/static/media/SHANGHAI.de5184cffc89e18ff768.jpeg",
+    "static/media/NYC.jpeg": "/static/media/NYC.732ca003feb76246e938.jpeg",
+    "static/media/SYDNEY.jpeg": "/static/media/SYDNEY.397ca1ae2d99731c2077.jpeg",
+    "static/media/rain.png": "/static/media/rain.a19c7f6db64dc7f90a56.png",
+    "index.html": "/index.html",
+    "main.96ea61c1.js.map": "/static/js/main.96ea61c1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.96ea61c1.js"
+  ]
+}
